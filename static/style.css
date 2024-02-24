@@ -1,0 +1,33 @@
+body {
+	background-color: #303030;
+}
+#top-navigation {
+	margin: 0 auto;
+	width: 1300px;
+	height:70px;
+	text-align: left;
+}
+#container {
+	margin: 0 auto;
+	width: 1300px;
+	height:1000px;
+	text-align: center;
+}
+#wmsx {
+	float:left;
+}
+#right-navigation{
+	float:left;
+	margin-left:15px;
+}
+div.game {
+	cursor: pointer;
+}
+div.game img {
+	border-radius: 10%;
+}
+div.game div {
+	color: white;
+	font-weight: bold;
+	margin-bottom: 15px;
+}
